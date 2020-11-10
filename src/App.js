@@ -10,7 +10,10 @@ import Section from './components/Form';
 function App() {
   return (
     <div className="App">
+      
+      
       <Header/>
+      <h1>Hola</h1>
       {/* <Reloj/>
       <Table/> */}
       {/* <NombreUsuario nombre={'Federico'}  /> */}
